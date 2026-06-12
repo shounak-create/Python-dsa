@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2149a769-fd78-4bff-8cf6-dc0fa146cc6d" name="Changes" comment="find missing number">
-      <change afterPath="$PROJECT_DIR$/check_sorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remove_duplicate.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
   "keyToString": {
     "Python.check_sorted.executor": "Run",
     "Python.find_missing.executor": "Run",
+    "Python.remove_duplicate.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -86,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781229385408</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="find missing number">
+      <option name="closed" value="true" />
+      <created>1781230455007</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1781230455007</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
