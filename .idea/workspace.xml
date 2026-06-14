@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2149a769-fd78-4bff-8cf6-dc0fa146cc6d" name="Changes" comment="revising linkedlist">
-      <change afterPath="$PROJECT_DIR$/return_middle(Linkedlist).py" afterDir="false" />
+    <list default="true" id="2149a769-fd78-4bff-8cf6-dc0fa146cc6d" name="Changes" comment="return middle">
+      <change afterPath="$PROJECT_DIR$/find_cycle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
   "keyToString": {
     "Python.Linkedlist.executor": "Run",
     "Python.check_sorted.executor": "Run",
+    "Python.find_cycle.executor": "Run",
     "Python.find_missing.executor": "Run",
     "Python.next_greater.executor": "Run",
     "Python.remove_duplicate.executor": "Run",
@@ -147,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781420742056</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="return middle">
+      <option name="closed" value="true" />
+      <created>1781432581264</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1781432581264</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +190,7 @@
     <MESSAGE value="checked greater and changed the elements how is below index" />
     <MESSAGE value="changes in next greater" />
     <MESSAGE value="revising linkedlist" />
-    <option name="LAST_COMMIT_MESSAGE" value="revising linkedlist" />
+    <MESSAGE value="return middle" />
+    <option name="LAST_COMMIT_MESSAGE" value="return middle" />
   </component>
 </project>
