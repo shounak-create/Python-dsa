@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2149a769-fd78-4bff-8cf6-dc0fa146cc6d" name="Changes" comment="changes in next greater">
-      <change afterPath="$PROJECT_DIR$/Linkedlist.py" afterDir="false" />
+    <list default="true" id="2149a769-fd78-4bff-8cf6-dc0fa146cc6d" name="Changes" comment="revising linkedlist">
+      <change afterPath="$PROJECT_DIR$/return_middle(Linkedlist).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
     "Python.find_missing.executor": "Run",
     "Python.next_greater.executor": "Run",
     "Python.remove_duplicate.executor": "Run",
+    "Python.return_middle(Linkedlist).executor": "Run",
     "Python.valid_parenthesis.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -138,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781413964112</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="revising linkedlist">
+      <option name="closed" value="true" />
+      <created>1781420742056</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1781420742056</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +180,7 @@
     <MESSAGE value="checked greater and changed the elements how is below index and exact same" />
     <MESSAGE value="checked greater and changed the elements how is below index" />
     <MESSAGE value="changes in next greater" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes in next greater" />
+    <MESSAGE value="revising linkedlist" />
+    <option name="LAST_COMMIT_MESSAGE" value="revising linkedlist" />
   </component>
 </project>
