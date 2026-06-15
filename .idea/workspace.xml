@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2149a769-fd78-4bff-8cf6-dc0fa146cc6d" name="Changes" comment="return middle">
-      <change afterPath="$PROJECT_DIR$/find_cycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/merge_2_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reversing-list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +56,7 @@
     "Python.next_greater.executor": "Run",
     "Python.remove_duplicate.executor": "Run",
     "Python.return_middle(Linkedlist).executor": "Run",
+    "Python.reversing-list.executor": "Run",
     "Python.valid_parenthesis.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -156,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781432581264</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="return middle">
+      <option name="closed" value="true" />
+      <created>1781435980245</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1781435980245</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
