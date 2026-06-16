@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2149a769-fd78-4bff-8cf6-dc0fa146cc6d" name="Changes" comment="return middle">
-      <change afterPath="$PROJECT_DIR$/merge_2_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reversing-list.py" afterDir="false" />
+    <list default="true" id="2149a769-fd78-4bff-8cf6-dc0fa146cc6d" name="Changes" comment="merge list and reversing the list">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reversing-list.py" beforeDir="false" afterPath="$PROJECT_DIR$/reversing-list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
     "Python.check_sorted.executor": "Run",
     "Python.find_cycle.executor": "Run",
     "Python.find_missing.executor": "Run",
+    "Python.merge_2_list.executor": "Run",
     "Python.next_greater.executor": "Run",
     "Python.remove_duplicate.executor": "Run",
     "Python.return_middle(Linkedlist).executor": "Run",
@@ -166,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781435980245</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="merge list and reversing the list">
+      <option name="closed" value="true" />
+      <created>1781519847220</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1781519847220</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +209,7 @@
     <MESSAGE value="changes in next greater" />
     <MESSAGE value="revising linkedlist" />
     <MESSAGE value="return middle" />
-    <option name="LAST_COMMIT_MESSAGE" value="return middle" />
+    <MESSAGE value="merge list and reversing the list" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge list and reversing the list" />
   </component>
 </project>
