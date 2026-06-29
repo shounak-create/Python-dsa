@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2149a769-fd78-4bff-8cf6-dc0fa146cc6d" name="Changes" comment="implemented linkedlist">
+    <list default="true" id="2149a769-fd78-4bff-8cf6-dc0fa146cc6d" name="Changes" comment="Binary tree implemented">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Binary-tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Binary-tree.py" afterDir="false" />
     </list>
@@ -200,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782287967060</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Binary tree implemented">
+      <option name="closed" value="true" />
+      <created>1782294108726</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1782294108726</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +246,7 @@
     <MESSAGE value="merge list and reversing the list" />
     <MESSAGE value="binary tree half solved" />
     <MESSAGE value="implemented linkedlist" />
-    <option name="LAST_COMMIT_MESSAGE" value="implemented linkedlist" />
+    <MESSAGE value="Binary tree implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary tree implemented" />
   </component>
 </project>
