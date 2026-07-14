@@ -56,6 +56,19 @@ class BinaryTree:
 
         return leftnd+rightnd+1
 
+    def invertTree(self,root):
+        if root == None:
+            return 0
+
+        leftnd=self.invertTree(root.left)
+        rightnd=self.invertTree(root.right)
+
+        leftnd,rightnd = rightnd,leftnd
+
+        return self.inorder(root)
+
+    def 
+
 
 root = None
 
@@ -70,3 +83,4 @@ l1.inorder(root)
 print(l1.search(root,60))
 print("\nheight",l1.height(root))
 print("\ncount_nodes",l1.count_nodes(root))
+print(l1.invertTree(root))
